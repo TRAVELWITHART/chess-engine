@@ -7,7 +7,7 @@ This is an example implementation of my chess engine using a desktop GUI.
 ## Usage
 
 ```bash
-git clone https://github.com/adam-mcdaniel/chess-engine
+git clone https://github.com/DARKEMPIRESL/chess-engine
 cd chess-engine/examples/chess-gui
 
 # Run the AI using the best move algorithm

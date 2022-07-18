@@ -14,7 +14,7 @@ rustup target add wasm32-unknown-unknown
 # Install wasm-bindgen for compiling a crate to WASM
 cargo install wasm-bindgen-cli
 
-git clone https://github.com/adam-mcdaniel/chess-engine
+git clone https://github.com/DARKEMPIRESL/chess-engine
 cd chess-engine/examples/chess-web
 
 # Create a directory for the WASM outputs
@@ -59,5 +59,5 @@ You can then run the engine in the browser with the following HTML code:
 Or, if you want to embed my chess engine in your website, you can do so with the following code:
 
 ```html
-<embed type="text/html" src="https://adam-mcdaniel.github.io/chess-engine/examples/chess-web/chess-best.html" width="420" height="420"/>
+<embed type="text/html" src="https://DARKEMPIRESL.github.io/chess-engine/examples/chess-web/chess-best.html" width="420" height="420"/>
 ```
