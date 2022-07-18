@@ -1,8 +1,8 @@
 [package]
 name = "chess-engine"
 version = "0.1.2"
-authors = ["DARKEMPIRE <punyamatheesha@gmail.com>"]
-edition = "2022"
+authors = ["DARKEMPIRESL <punyamatheesha@gmail.com>"]
+edition = "2018"
 description = "A dependency-free chess engine library built to run anywhere."
 documentation = "https://docs.rs/chess-engine/"
 readme = "README.md"

@@ -17,7 +17,9 @@
     <span> | </span>
     <a href="https://t.me/ImDark_Empire">Contact Me</a>
   </h3>
- </div>
+
+  <sub>Written in Rust🦀💖</sub>
+</div>
 
 <div align="center">
   <a href="https://DARKEMPIRESL.github.io/chess-engine/docs/book/index.html#average-ai">
@@ -159,9 +161,9 @@ fn main() {
 ## About the Author
 <div align="center">
   <h3>
-    <a href="https://www.slbots.org">Website</a>
+    <a href="https://DARKEMPIRESL.net">Website</a>
     <span> | </span>
-    <a href="https://www.slbots.org/blog">Blog</a>
+    <a href="https://DARKEMPIRESL.net/blog">Blog</a>
     <span> | </span>
     <a href="https://github.com/DARKEMPIRESL">GitHub</a>
   </h3>
