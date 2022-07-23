@@ -22,4 +22,4 @@ The `lib.rs` file contains all of the GUI logic.
 
 ![Console](../assets/terminal.png)
 
-This is just a simple unicode text interface that allows the user to type in moves, allow the CPU to make moves, and other various actions.
+This is just a simple unicode text interface that allows the user to type in moves, allow the CPU to make moves, and other various actions. 
